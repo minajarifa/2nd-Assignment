@@ -63,16 +63,13 @@ padding: 10px;
     color: #FF5400;
 }
 /*nav end*/
-header{
-    background-image: url(B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png);
-    background-repeat: no-repeat;
-    border: 2px solid tomato;
-    
-   
-}
+
 /* header end*/
 
-
+ header{
+    background-image: url(B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png);
+     background-repeat: no-repeat; 
+}
 /* main start*/
 /*mountain start*/
 .mountain{
@@ -175,6 +172,10 @@ padding: 20px;
     justify-content: center;
 }
 /*text section end*/
+/*umbrella1 start*/
+  
+  
+/*umbrella1 end*/
 /*Bangladesh start*/
 .Bangladesh{
     display: flex;
