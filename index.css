@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans:wght@800&family=Work+Sans:ital,wght@0,400;0,500;0,700;0,800;1,400&display=swap');
+body{
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;  
+}
+
+/* praimary section start*/
+
+   .chai-beauty{
+    color: #5A5A5D;
+ 
+   }
+   .logo{
+    width: 20px;
+    height: 20px;
+   }
+   .comola-beauty{
+    color: #FFF;
+text-align: center;
+border-radius: 8px;
+background: #FF5400;
+padding: 10px;
+   }
+   .ashon{
+    text-align: center;
+   }
+/* praimary section end*/
+/* header start */
+/*nav start*/
+  .lal{
+    color: color: #FF5400;
+    ;
+  }
+ .hnav{
+    display: flex;
+ }
+ nav{
+    display: flex;
+    justify-content: space-around;
+ }
+ .tir{
+    margin-top: 25px;
+    margin-right: 5px;
+ }
+ .list{
+    display: flex;
+    margin-left: 300px;
+ }
+ .list > li{
+    list-style: none;
+    margin-right: 10px;
+    color: #424247;
+ }
+ .list > li > a{
+    text-decoration: none;
+
+ }
+ .hnav{
+    margin-right: 400px;
+ }
+.lal{
+    color: #FF5400;
+}
+/*nav end*/
+header{
+    background-image: url(B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    border: 2px solid tomato;
+    
+   
+}
+/* header end*/
+
+
+/* main start*/
+/*mountain start*/
+.mountain{
+    display: flex;
+    padding-top: 40px;
+}
+.text-mountain{
+   width: 50%;
+}
+img{
+    width: 100%;
+}
+.image-mountain{
+ width: 50%;
+}
+/*mountain end*/
+/*visiting start*/
+  .one-visit {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 5px;
+  }
+  .one-visit > div{
+    width: 50%;
+  }
+  .two-visit{
+    display: flex;
+    gap: 5px;
+    margin-bottom: 5px;
+  }
+  .two-visit > .Sri{
+     width: 30%;
+  }
+  .two-visit > .Nor{
+    width: 40%;
+  }
+  .two-visit > .Kas{
+    width: 30%;
+  }
+  .three-visit{
+    display: flex;
+    gap: 5px;
+    margin-bottom: 5px;
+  }
+  .three-visit > .Bangla{
+     width: 40%;
+  }
+  .three-visit > .Banda{
+     width: 60%;
+  }
+
+/*visiting end*/
+/*text section start*/
+.Hotel-world > div {
+   width: 50%;
+}
+.Hotel-world {
+    display: flex;
+}
+.location{
+   height: 30px;
+   width: 30px;
+}
+.percent{
+   height: 30px;
+   width: 30px;
+}
+.hotel{
+   height: 30px;
+   width: 30px;
+}
+.ho-di{
+    border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+margin-right: 10px;
+padding: 20px;
+
+}
+.lo-di{
+    border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+margin-left: 10px;
+padding: 20px;
+}
+.pe-di{
+    border-radius: 16px;
+border: 1px solid rgba(233, 68, 68, 0.20);
+background: rgba(233, 68, 68, 0.05);
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 20px;
+width: 60%;
+padding: 20px;
+
+}
+.pe-di-container{
+    display: flex;
+    justify-content: center;
+}
+/*text section end*/
+/*Bangladesh start*/
+.Bangladesh{
+    display: flex;
+}
+.Bangladesh > div {
+    width: 50%;
+}
+
+.bangla-text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Bangladesh end*/
+/*seventy start*/
+.seventy{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.seventy > div{
+    width: 50%;
+}
+.seventy > form{
+    border-radius: 16px;
+border: 1px solid #FF5400;
+margin-right: 20px;
+padding-left: 10px;
+}
+.comola-beauty{
+    margin-bottom: 5px;
+}
+input{
+    margin-bottom: 2px;
+}
+.seven-image{
+    position: relative;
+}
+.tera{
+  
+}
+/*seventy end*/
+/*main end*/
+
+/* footer section start */
+footer{
+    background-color: antiquewhite;
+   padding-top: 40px;
+   padding-bottom: 20px;
+}
+.instagram{
+    width: 40px;
+    height: 40px;
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+}
+.twitter{
+    width: 40px;
+    height: 40px;
+}
+.github{
+    height: 40px;
+    width: 40px;
+}
+.last-title{
+    display: flex;
+    justify-content: center; 
+}
+.c{
+    display: flex;
+    justify-content: center;
+}
+.b{ 
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
+.b-container{
+    display: flex;
+    justify-content: center;
+}
+.d{
+    display: flex;
+    justify-content: center;
+}
+/* footer section end */
